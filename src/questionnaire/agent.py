@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 
 from openai import OpenAI
 
-from src.questionnaire.schemas import Questionnaire
-from src.questionnaire.prompts import PROMPT
+from questionnaire.schemas import Questionnaire
+from questionnaire.prompts import PROMPT
 
 class QuestionnarieAgent:
     """Main logic for the Questionnaire maker."""
