@@ -9,8 +9,16 @@ readme = "README.md"
 python = "^3.12"
 openai = "^1.66.3"
 dotenv = "^0.9.9"
+pytest = "^8.3.5"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
+[tool.poetry.group.dev.dependencies]
+pytest-asyncio = "^0.25.3"
