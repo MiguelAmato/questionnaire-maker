@@ -1,0 +1,145 @@
+{
+    "questions": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de un cuestionario?",
+            "options": [
+                {
+                    "option": "Generar an\u00e1lisis complejos"
+                },
+                {
+                    "option": "Obtener informaci\u00f3n de manera estructurada"
+                },
+                {
+                    "option": "Crear confusi\u00f3n entre los encuestados"
+                },
+                {
+                    "option": "Sustituir la educaci\u00f3n tradicional"
+                }
+            ]
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de preguntas se suelen incluir en un cuestionario?",
+            "options": [
+                {
+                    "option": "Solo preguntas abiertas"
+                },
+                {
+                    "option": "Preguntas de opci\u00f3n m\u00faltiple y abiertas"
+                },
+                {
+                    "option": "Preguntas cerradas exclusivamente"
+                },
+                {
+                    "option": "Preguntas de verdadero o falso solamente"
+                }
+            ]
+        },
+        {
+            "question": "Al dise\u00f1ar un cuestionario, \u00bfcu\u00e1l es un factor clave a considerar?",
+            "options": [
+                {
+                    "option": "La longitud del cuestionario"
+                },
+                {
+                    "option": "El nivel de educaci\u00f3n de los encuestados"
+                },
+                {
+                    "option": "La claridad y concisi\u00f3n de las preguntas"
+                },
+                {
+                    "option": "Las respuestas \u00fanicas y sin alternativas"
+                }
+            ]
+        },
+        {
+            "question": "\u00bfQu\u00e9 se debe evitar al hacer preguntas en un cuestionario?",
+            "options": [
+                {
+                    "option": "Redundancia en las preguntas"
+                },
+                {
+                    "option": "Incluir opciones claras"
+                },
+                {
+                    "option": "Utilizar un lenguaje t\u00e9cnico"
+                },
+                {
+                    "option": "Este tipo de preguntas abiertas"
+                }
+            ]
+        },
+        {
+            "question": "Verdadero o Falso: Un buen cuestionario siempre tiene una opci\u00f3n correcta en las preguntas de opci\u00f3n m\u00faltiple.",
+            "options": [
+                {
+                    "option": "Verdadero"
+                },
+                {
+                    "option": "Falso"
+                }
+            ]
+        },
+        {
+            "question": "\u00bfCu\u00e1l es una desventaja com\u00fan de los cuestionarios?",
+            "options": [
+                {
+                    "option": "Recopilan mucha informaci\u00f3n en poco tiempo"
+                },
+                {
+                    "option": "Pueden inducir a sesgos en las respuestas"
+                },
+                {
+                    "option": "Son dif\u00edciles de analizar"
+                },
+                {
+                    "option": "No pueden ser distribuidos en l\u00ednea"
+                }
+            ]
+        },
+        {
+            "question": "Al analizar respuestas de un cuestionario, \u00bfqu\u00e9 se busca principalmente?",
+            "options": [
+                {
+                    "option": "La opini\u00f3n personal del encuestador"
+                },
+                {
+                    "option": "Patrones y tendencias en las respuestas"
+                },
+                {
+                    "option": "El tiempo empleado por cada encuestado"
+                },
+                {
+                    "option": "Las respuestas m\u00e1s creativas"
+                }
+            ]
+        },
+        {
+            "question": "\u00bfQu\u00e9 t\u00e9rmino se usa para referirse a la cantidad total de encuestados en un cuestionario?",
+            "options": [
+                {
+                    "option": "Poblaci\u00f3n"
+                },
+                {
+                    "option": "Muestra"
+                },
+                {
+                    "option": "Tama\u00f1o de la muestra"
+                },
+                {
+                    "option": "Participantes"
+                }
+            ]
+        },
+        {
+            "question": "Verdadero o Falso: Un cuestionario efectivo siempre se adapta a su audiencia objetivo.",
+            "options": [
+                {
+                    "option": "Verdadero"
+                },
+                {
+                    "option": "Falso"
+                }
+            ]
+        }
+    ]
+}
